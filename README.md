@@ -2,13 +2,13 @@
 
 Proyecto backend en el cual esta compuesto de varios servicios los cuales son:
 
-URL BASE - http://127.0.0.1:8000
-POST - /api/tickets - Creacion de tikects
-GET - /api/tickets - Selección de todos los tikects
-GET - /api/tickets/1 - Selección de tickect en especifico
-GET - /api/tickets/pagination?page=3&page_size=1 - Paginación
-DELETE - /api/tickets/5 - Borrado de ticket
-PUT - /api/tickets/3?user_name=Dayana&status=cerrado - Edición de tickets
+URL BASE - http://127.0.0.1:8000 <br><br>
+POST - /api/tickets - Creacion de tikects <br>
+GET -  /api/tickets - Selección de todos los tikects <br>
+GET -  /api/tickets/1 - Selección de tickect en especifico <br>
+GET -  /api/tickets/pagination?page=3&page_size=1 - Paginación <br>
+DELETE - /api/tickets/5 - Borrado de ticket <br>
+PUT - /api/tickets/3?user_name=Dayana&status=cerrado - Edición de tickets <br>
 
 Tecnologias usadas:
 
